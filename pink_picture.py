@@ -7,7 +7,7 @@ program working.
 
 from simpleimage import SimpleImage
 
-DEFAULT_FILE = 'images/quad.jpg'
+DEFAULT_FILE = 'quad.jpg'
 
 def main():
     # Get file and load image
